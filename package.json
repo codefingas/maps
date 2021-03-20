@@ -1,5 +1,15 @@
 {
   "devDependencies": {
     "typescript": "^4.2.3"
+  },
+  "name": "maps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/codefingas/maps.git",
+  "author": "codefingas <udohezekiel34@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/faker": "^5.1.7",
+    "faker": "^5.4.0"
   }
 }
